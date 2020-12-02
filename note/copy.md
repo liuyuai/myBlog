@@ -66,7 +66,7 @@ console.log(new_arr);
 
 ```
 我们会发现 new_arr 变成了：
-![数组拷贝图片](https://raw.githubusercontent.com/liuyuai/blog/master/src/assets/copy/copy1.png "copy");
+![数组拷贝图片](https://raw.githubusercontent.com/liuyuai/myBlog/master/src/assets/copy1.png "copy");
 
 ## 浅拷贝的实现
 
