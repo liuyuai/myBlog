@@ -4,7 +4,7 @@
 
 1.[Js从原型到原型链](https://github.com/liuyuai/myBlog/blob/master/note/prototype.md)  
 2.[Js深浅拷贝](https://github.com/liuyuai/myBlog/blob/master/note/copy.md)  
-3.[Js垃圾回收机制](https://github.com/liuyuai/myBlog/blob/master/note/gc.md)
+3.[Js垃圾回收机制](https://github.com/liuyuai/myBlog/blob/master/note/gc.md)     
 4.[Js函数记忆](https://github.com/liuyuai/myBlog/blob/master/note/memoize.md)
 
 
