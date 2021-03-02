@@ -9,7 +9,7 @@
 
 ## 手写专题
 1.[手动实现new操作符](https://github.com/liuyuai/myBlog/blob/master/note/createNew.md)  
-2.[数组扁平那个花](https://github.com/liuyuai/myBlog/blob/master/note/delayering.md)
+2.[数组扁平化](https://github.com/liuyuai/myBlog/blob/master/note/delayering.md)
 ## 设计模式
  
 1.[AOP面向切面式编程](https://github.com/liuyuai/myBlog/blob/master/note/aop.md)
