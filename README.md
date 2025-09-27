@@ -18,3 +18,7 @@
 ## 网络知识
 
 1.[HTTP协议](https://github.com/liuyuai/myBlog/blob/master/note/http2.md)
+
+## AI agent
+
+1.[agent学习](https://github.com/liuyuai/myBlog/blob/master/note/ai-agent-learning.md)
