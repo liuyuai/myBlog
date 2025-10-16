@@ -1,10 +1,14 @@
 ## 设计模式
  
 1.[AOP面向切面式编程](https://github.com/liuyuai/myBlog/blob/master/note/aop.md)
+2.[单例模式](https://github.com/liuyuai/myBlog/blob/master/note/singleton.md)
+3.[观察者模式](https://github.com/liuyuai/myBlog/blob/master/note/observer.md)
 
 ## 网络知识
 
 1.[HTTP协议](https://github.com/liuyuai/myBlog/blob/master/note/http2.md)
+2.[TCP三次握手与四次挥手](https://github.com/liuyuai/myBlog/blob/master/note/tcp.md)
+3.[HTTPS与TLS](https://github.com/liuyuai/myBlog/blob/master/note/https.md)
 
 ## AI agent
 
