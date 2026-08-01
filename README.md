@@ -21,4 +21,10 @@
 
 ## AI agent
 
-1.[agent学习](https://github.com/liuyuai/myBlog/blob/master/note/ai-agent-learning.md)
+1.[agent学习](https://github.com/liuyuai/myBlog/blob/master/note/ai-agent-learning.md)  
+2.[手写一个Agent：从ReAct循环说起](https://github.com/liuyuai/myBlog/blob/master/note/agent.md)  
+3.[RAG检索增强生成](https://github.com/liuyuai/myBlog/blob/master/note/rag.md)  
+4.[提示词工程](https://github.com/liuyuai/myBlog/blob/master/note/prompt-engineering.md)  
+5.[Function Calling 函数调用](https://github.com/liuyuai/myBlog/blob/master/note/function-calling.md)  
+6.[意图路由](https://github.com/liuyuai/myBlog/blob/master/note/intent-routing.md)  
+7.[HITL 人在回路](https://github.com/liuyuai/myBlog/blob/master/note/hitl.md)
