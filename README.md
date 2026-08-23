@@ -30,3 +30,8 @@
 16.[MCP 协议](https://github.com/liuyuai/myBlog/blob/master/note/mcp.md)  
 17.[A2A 协议](https://github.com/liuyuai/myBlog/blob/master/note/a2a.md)  
 18.[SKILL 技能系统](https://github.com/liuyuai/myBlog/blob/master/note/skill.md)
+19.[多 Agent 编排](https://github.com/liuyuai/myBlog/blob/master/note/multi-agent.md)  
+20.[反思与自我修正](https://github.com/liuyuai/myBlog/blob/master/note/agent-reflection.md)  
+21.[Agent 评估](https://github.com/liuyuai/myBlog/blob/master/note/agent-evaluation.md)  
+22.[Agent 可观测性](https://github.com/liuyuai/myBlog/blob/master/note/agent-observability.md)  
+23.[工具安全与提示注入](https://github.com/liuyuai/myBlog/blob/master/note/tool-safety.md)
